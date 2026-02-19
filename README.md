@@ -9,11 +9,6 @@
 - Low Profile Gateron Mechanical Red
 - K1P-H1-ES
 
-Mapas de teclado:
-
-- [Mapa original](k1_pro_iso_rgb/default.json)
-- [Mapa personalizado](k1_pro_iso_rgb/custom.json)
-
 Aplicaciones de configuración (solo funcionan en Chrome):
 
 - [VIA](https://usevia.app/): aplicación para configurar el mapa de teclado.
